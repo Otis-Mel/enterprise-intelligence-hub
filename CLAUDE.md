@@ -14,7 +14,7 @@ Enterprise Intelligence Hub (EIH): nhập file, chuẩn hóa, kiểm tra, duyệ
 1. Hiểu: đọc code liên quan, chưa sửa.
 2. Kế hoạch: liệt kê file dự kiến sửa, chờ người duyệt.
 3. Làm: từng mẩu nhỏ, thử ngay sau mỗi mẩu.
-4. Kiểm: `bash scripts/verify.sh` (chặn file bí mật bị theo dõi, chuỗi giống khóa API, rồi chạy `pytest`). Test đỏ thì sửa code, không sửa test cho khớp.
+4. Kiểm: `cd backend && pytest -q`. Test đỏ thì sửa code, không sửa test cho khớp.
 5. Review độc lập: chạy review trong một phiên Claude riêng, phiên đó không viết code, rồi mới gộp.
 
 ## Vùng rủi ro
