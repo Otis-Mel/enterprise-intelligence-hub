@@ -1,3 +1,5 @@
+Dữ liệu mẫu là dữ liệu tổng hợp. Tài khoản demo chỉ để chạy cục bộ, không dùng cho môi trường thật.
+
 # Enterprise Intelligence Hub (EIH)
 
 Nền tảng nội bộ hợp nhất dữ liệu công việc từ nhiều nguồn, chuẩn hóa có kiểm duyệt, theo dõi tiến độ và tạo báo cáo có truy vết nguồn. Xem kế hoạch đầy đủ: `Enterprise_Intelligence_Hub_Project_Plan.docx`.
