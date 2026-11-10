@@ -1,0 +1,86 @@
+id,summary,assignee,status,priority,progress,due_date
+IT-001,Investigate memory leak #1,Đặng Mỹ Linh,Not started,Trung bình,,2026-10-12
+IT-002,Rotate API credentials #2,,?,P3,10,2026-09-26
+IT-003,Rotate API credentials #3,,Chưa làm,P3,0,2026-12-23
+IT-004,Optimize slow report query #4,Ngô Khánh Ly,Chưa làm,P3,,2026-10-07
+IT-005,Write unit tests for billing #5,Nguyễn Văn An,Vướng,P2,35,2026-11-03
+IT-006,Migrate database to PostgreSQL 16 #6,Đỗ Gia Phúc,doing,P2,45,2026-12-06
+IT-007,Document deployment runbook #7,Vũ Đức Huy,Xong,P3,100,2026-11-20
+IT-008,Optimize slow report query #8,,TBD,Thấp,30,2026-11-06
+IT-009,Implement SSO integration #9,Lê Minh Châu,Đang làm,P3,80,2026-10-14
+IT-010,Investigate memory leak #10,Ngô Khánh Ly,Chưa làm,Trung bình,,2026-10-29
+IT-011,Implement SSO integration #11,Trần Thị Bình,Đang thực hiện,Cao,5,2026-10-31
+IT-012,Review pull requests backlog #12,Đỗ Gia Phúc,Bị chặn,Thấp,5,
+IT-013,Optimize slow report query #13,,Đang thực hiện,P3,65,2026-09-20
+IT-014,Implement SSO integration #14,Ngô Khánh Ly,Xong,High,100,2026-12-14
+IT-014,Implement SSO integration #14,Ngô Khánh Ly,Xong,High,100,2026-12-14
+IT-015,Rotate API credentials #15,Ngô Khánh Ly,?,Thấp,,2026-09-20
+IT-016,Upgrade API gateway #16,Bùi Thanh Nam,Đang thực hiện,P2,,2026-12-07
+IT-017,Migrate database to PostgreSQL 16 #17,Nguyễn Văn An,WIP,P1,5,2026-11-04
+IT-018,Upgrade API gateway #18,Ngô Khánh Ly,WIP,Thấp,75,2026-09-30
+IT-019,Document deployment runbook #19,Phạm Quốc Dũng,Hoàn thành,High,100,2026-12-14
+IT-020,Investigate memory leak #20,Vũ Đức Huy,Chưa làm,Medium,,2026-11-11
+IT-021,Upgrade API gateway #21,Lê Minh Châu,Đang làm,Trung bình,30,2026-09-24
+IT-022,Set up CI pipeline #22,Đỗ Gia Phúc,Done,P2,100,2026-12-29
+IT-023,Rotate API credentials #23,Bùi Thanh Nam,In Progress,High,90,
+IT-024,Set up CI pipeline #24,Đặng Mỹ Linh,TBD,Thấp,,2026-12-11
+IT-025,Fix login timeout bug #25,Hoàng Thu Hà,Completed,Thấp,100,
+IT-026,Add audit logging #26,Lê Minh Châu,todo,High,0,
+IT-027,Document deployment runbook #27,Nguyễn Văn An,Vướng,Thấp,5,2026-10-17
+IT-028,Implement SSO integration #28,Nguyễn Văn An,Hoàn thành,Medium,100,2026-12-19
+IT-029,Set up CI pipeline #29,,Hoàn thành,Cao,100,2026-11-28
+IT-030,Migrate database to PostgreSQL 16 #30,Bùi Thanh Nam,Hoàn thành,P2,100,2026-12-13
+IT-031,Rotate API credentials #31,Trần Thị Bình,Chưa làm,Trung bình,0,2026-10-21
+IT-032,Implement SSO integration #32,Phạm Quốc Dũng,Not started,P1,0,2026-10-19
+IT-033,Rotate API credentials #33,Vũ Đức Huy,Xong,P1,100,2026-09-24
+IT-034,Write unit tests for billing #34,Bùi Thanh Nam,Đang làm,High,65,2026-09-20
+IT-034,Write unit tests for billing #34,Bùi Thanh Nam,Đang làm,High,65,2026-09-20
+IT-035,Write unit tests for billing #35,Ngô Khánh Ly,WIP,Trung bình,5,2026-11-19
+IT-036,Fix login timeout bug #36,Vũ Đức Huy,?,P1,,2026-09-19
+IT-037,Optimize slow report query #37,Lê Minh Châu,Backlog,High,0,2026-10-06
+IT-038,Set up CI pipeline #38,Ngô Khánh Ly,Hoàn thành,Trung bình,100,2026-12-22
+IT-039,Investigate memory leak #39,,Đang làm,High,10,2026-11-08
+IT-040,Write unit tests for billing #40,Nguyễn Văn An,Đang làm,P3,80,2026-11-30
+IT-041,Add audit logging #41,Đỗ Gia Phúc,Completed,Trung bình,100,
+IT-042,Upgrade API gateway #42,Bùi Thanh Nam,Closed,P2,100,2026-10-23
+IT-043,Migrate database to PostgreSQL 16 #43,Hoàng Thu Hà,Chưa làm,P2,,2026-10-03
+IT-044,Rotate API credentials #44,Vũ Đức Huy,Đang thực hiện,High,35,2026-12-28
+IT-045,Write unit tests for billing #45,Phạm Quốc Dũng,Xong,P2,100,2026-12-18
+IT-046,Rotate API credentials #46,Đỗ Gia Phúc,Not started,P3,0,2026-10-27
+IT-047,Review pull requests backlog #47,,Vướng,P3,55,2026-12-20
+IT-048,Investigate memory leak #48,Ngô Khánh Ly,Not started,Thấp,0,2026-10-10
+IT-049,Investigate memory leak #49,Đặng Mỹ Linh,Hoàn thành,Trung bình,100,2026-10-23
+IT-050,Write unit tests for billing #50,,In Progress,High,35,2026-12-23
+IT-051,Implement SSO integration #51,,Hoàn thành,High,100,2026-11-23
+IT-052,Set up CI pipeline #52,Lê Minh Châu,In Progress,Trung bình,55,2026-11-23
+IT-053,Review pull requests backlog #53,Lê Minh Châu,In Progress,Cao,85,2026-10-24
+IT-054,Document deployment runbook #54,Phạm Quốc Dũng,To Do,P1,0,2026-12-28
+IT-055,Review pull requests backlog #55,Trần Thị Bình,Xong,Low,100,2026-11-17
+IT-056,Document deployment runbook #56,Ngô Khánh Ly,Done,Cao,100,2026-11-17
+IT-057,Document deployment runbook #57,Đặng Mỹ Linh,Won't Fix,Trung bình,40,2026-11-23
+IT-058,Implement SSO integration #58,Đỗ Gia Phúc,Xong,Low,100,2026-12-11
+IT-059,Write unit tests for billing #59,Bùi Thanh Nam,WIP,Thấp,60,2026-10-23
+IT-060,Write unit tests for billing #60,Lê Minh Châu,Closed,High,100,2026-12-15
+IT-061,Rotate API credentials #61,Đặng Mỹ Linh,In Progress,Medium,10,2026-12-02
+IT-062,Add audit logging #62,Trần Thị Bình,todo,High,,2026-11-23
+IT-063,Document deployment runbook #63,Lê Minh Châu,Done,P1,100,2026-12-10
+IT-064,Add audit logging #64,Bùi Thanh Nam,Vướng,Cao,20,2026-11-20
+IT-065,Review pull requests backlog #65,Nguyễn Văn An,Đang thực hiện,Thấp,25,2026-12-23
+IT-066,Investigate memory leak #66,Bùi Thanh Nam,Mới,P1,,2026-12-28
+IT-067,Review pull requests backlog #67,Nguyễn Văn An,Xong,Low,100,2026-10-03
+IT-067,Review pull requests backlog #67,Nguyễn Văn An,Xong,Low,100,2026-10-03
+IT-068,Fix login timeout bug #68,,doing,Medium,55,
+IT-069,Migrate database to PostgreSQL 16 #69,Lê Minh Châu,Done,P1,100,2026-10-08
+IT-069,Migrate database to PostgreSQL 16 #69,Lê Minh Châu,Done,P1,100,2026-10-08
+IT-070,Review pull requests backlog #70,Bùi Thanh Nam,Done,High,100,
+IT-071,Optimize slow report query #71,Lê Minh Châu,Xong,Thấp,100,2026-11-16
+IT-072,Review pull requests backlog #72,Đỗ Gia Phúc,Đang làm,Cao,10,2026-10-16
+IT-073,Document deployment runbook #73,Vũ Đức Huy,todo,Cao,,2026-12-06
+IT-074,Set up CI pipeline #74,,Won't Fix,Thấp,,2026-09-25
+IT-075,Write unit tests for billing #75,Phạm Quốc Dũng,Đang làm,P1,35,2026-12-20
+IT-076,Investigate memory leak #76,Lê Minh Châu,Won't Fix,Thấp,,2026-10-28
+IT-077,Upgrade API gateway #77,Trần Thị Bình,Done,P2,100,
+IT-077,Upgrade API gateway #77,Trần Thị Bình,Done,P2,100,
+IT-078,Add audit logging #78,Trần Thị Bình,doing,P1,75,2026-11-25
+IT-079,Implement SSO integration #79,Bùi Thanh Nam,In Progress,P2,90,2026-11-11
+IT-080,Review pull requests backlog #80,Lê Minh Châu,Đang thực hiện,P2,40,2026-12-13

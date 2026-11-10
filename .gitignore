@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+storage/*
+!storage/.gitkeep
+node_modules/
+.next/
+*.db
+
+# Dữ liệu sinh ra (tạo lại bằng script)
+docs/sample_data/generated/

@@ -1,0 +1,6 @@
+ID,Task,Owner,Status,Priority,Progress,Due
+B-101,Update vendor contracts,Pham Quoc Dung,In Progress,High,70,11/20/2026
+B-102,Audit inventory,Hoang Thu Ha,To Do,Medium,0,12/05/2026
+B-103,Fix ERP export,Pham Quoc Dung,Blocked,Critical,20,11/08/2026
+B-104,Train new staff,Hoang Thu Ha,Done,Low,100,10/28/2026
+B-105,Train new staff,Hoang Thu Ha,Done,Low,100,10/28/2026
